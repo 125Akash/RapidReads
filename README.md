@@ -29,7 +29,7 @@ Welcome to RaidReads, a powerful news application built using Next.js and Fireba
 1. Clone the RaidReads repository:
 
    ```bash
-   git clone https://github.com/your-username/RaidReads.git
+   git clone https://github.com/125Akash/RapidReads.git
    ```
 
 2. Navigate to the project directory:
