@@ -2,6 +2,8 @@
 
 ## Overview
 
+# Live - Link ->  https://rapid-reads.vercel.app/
+
 Welcome to RaidReads, a powerful news application built using Next.js and Firebase as the database. RaidReads provides a seamless and intuitive platform for reading news articles and saving your favorite pieces for later. Stay informed and organized with RaidReads!
 
 ## Features
