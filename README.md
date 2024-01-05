@@ -3,7 +3,10 @@
 
 
 
-# LIVE _ LINK _     https://rapid-reads.vercel.app/
+# LIVE _ LINK _with Login      https://rapid-reads.vercel.app/ 
+
+
+# LIVE LINK WITHOU LOGIN -   https://rapid-p-reads2.vercel.app/
 
 
 
